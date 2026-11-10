@@ -1,0 +1,7 @@
+iso3,country,production_t,area_ha,yield_kg_ha,temperature_c,precipitation_mm,complete,max_world_share_pct
+COK,Cook Islands,24,24,21,24,24,False,8.970266812158071e-05
+CPV,Cabo Verde,13,13,13,24,24,False,0.000980744294981181
+GLP,Guadeloupe,7,7,7,24,24,False,0.0004742588193739162
+MTQ,Martinique,7,7,7,24,24,False,0.0005394355314078743
+SAU,Saudi Arabia,1,1,1,24,24,False,0.006881370331066202
+TWN,"China, Taiwan Province of",24,24,9,24,24,False,0.00987531033775381

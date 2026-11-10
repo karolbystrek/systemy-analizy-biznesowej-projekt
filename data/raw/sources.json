@@ -1,0 +1,45 @@
+{
+  "un_m49": {
+    "url": "https://unstats.un.org/unsd/methodology/m49/overview/",
+    "path": "un/m49_overview.html",
+    "purpose": "M49 to ISO3 country-code crosswalk",
+    "downloaded_at_utc": "2026-11-09T21:15:24.619472+00:00",
+    "bytes": 1721575,
+    "sha256": "b9048114f6e7f2abda83bf03d4263c9d7cd1bd7230e3d0461025ee7839a7a1fb"
+  },
+  "faostat": {
+    "url": "https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip",
+    "path": "faostat/Production_Crops_Livestock_E_All_Data_(Normalized).zip",
+    "documentation": "https://www.fao.org/faostat/en/#data/QCL",
+    "licence": "CC-BY-4.0; FAO Statistical Database Terms of Use",
+    "licence_url": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+    "downloaded_at_utc": "2026-11-09T21:07:50Z",
+    "bytes": 33921825,
+    "sha256": "c5835418c18f9322e7decbd6800f93a216eaae3cdfa31acb08f0518c0c6d6853",
+    "last_updated": "2025-12-31T00:00:00"
+  },
+  "faostat_catalog": {
+    "url": "https://bulks-faostat.fao.org/production/datasets_E.xml",
+    "path": "faostat/datasets_E.xml",
+    "downloaded_at_utc": "2026-11-09T21:07:50Z",
+    "bytes": 115952,
+    "sha256": "7d3cb912c8a277f89a3a2266856a2dff11e69e97c2fb1d842596f5738529bb3a"
+  },
+  "worldbank": {
+    "url": "https://cckpapi.worldbank.org/cckp/v1/era5-x0.25_timeseries_pr,tas_timeseries_annual_1950-2025_mean_historical_era5_x0.25_mean/all_countries?_format=json",
+    "path": "worldbank/era5_annual_1950_2025.json",
+    "documentation": "https://climateknowledgeportal.worldbank.org/download-data",
+    "metadata": "https://climateknowledgeportal.worldbank.org/index.php/metadata",
+    "licence": "World Bank dataset terms; check third-party ERA5 attribution",
+    "licence_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "attribution": "World Bank Climate Change Knowledge Portal; ERA5, Copernicus/ECMWF",
+    "units": {
+      "tas": "degC, annual mean",
+      "pr": "mm, annual accumulated precipitation"
+    },
+    "spatial_aggregation": "country area, not coffee-growing area",
+    "downloaded_at_utc": "2026-11-09T21:07:50Z",
+    "bytes": 622696,
+    "sha256": "1999142cec043fe9f49b4710bdf4cd3b63a3160ae22929cb4ce8602f5cab18e9"
+  }
+}
