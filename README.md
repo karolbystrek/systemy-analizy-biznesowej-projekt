@@ -20,6 +20,17 @@ Przygotowujemy dashboard porównujący 51 krajów (lata 2000–2023): zbiory, ek
 - **Dashboard:** Python — Streamlit + Plotly (rekomendacja z ćwiczenia 2).
 - **Raporty:** Markdown → PDF w `docs/raport-cw2/`.
 
+## Dashboard lokalnie
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
+
+Aplikacja otworzy się w przeglądarce (zwykle `http://localhost:8501`). Potrzebna jest baza `data/coffee.db`.
+
 ## Struktura repozytorium
 
 | Folder / plik | Co zawiera |
