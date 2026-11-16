@@ -1,0 +1,3 @@
+species,temperature_min_c,temperature_max_c,precipitation_min_mm,precipitation_max_mm,source
+arabica,18,21,1200,1800,"DaMatta & Ramalho (2006): temperature after Alègre (1959), rainfall after Alègre (1959)"
+robusta,22,26,1200,1800,"DaMatta & Ramalho (2006): temperature after Matiello (1998); rainfall 'a similar range' to arabica, better tolerance above 2000 mm (Coste, 1992)"

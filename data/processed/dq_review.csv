@@ -1,0 +1,611 @@
+rule,iso3,country,year
+R8,BDI,Burundi,2002
+R8,BDI,Burundi,2003
+R8,BDI,Burundi,2004
+R8,BDI,Burundi,2005
+R8,BDI,Burundi,2006
+R8,BDI,Burundi,2007
+R8,BDI,Burundi,2008
+R8,BDI,Burundi,2009
+R8,BDI,Burundi,2010
+R8,BDI,Burundi,2011
+R8,BDI,Burundi,2014
+R8,BDI,Burundi,2015
+R8,BDI,Burundi,2021
+R8,CHN,"China, mainland",2001
+R8,CHN,"China, mainland",2009
+R8,CHN,"China, mainland",2012
+R8,CHN,"China, mainland",2022
+R8,CHN,"China, mainland",2023
+R8,CIV,Côte d'Ivoire,2011
+R8,CIV,Côte d'Ivoire,2012
+R8,CIV,Côte d'Ivoire,2017
+R8,CIV,Côte d'Ivoire,2018
+R8,CIV,Côte d'Ivoire,2021
+R8,CIV,Côte d'Ivoire,2022
+R8,CMR,Cameroon,2011
+R8,COD,Democratic Republic of the Congo,2001
+R8,COD,Democratic Republic of the Congo,2002
+R8,COD,Democratic Republic of the Congo,2009
+R8,COD,Democratic Republic of the Congo,2010
+R8,COD,Democratic Republic of the Congo,2016
+R8,COD,Democratic Republic of the Congo,2022
+R8,COD,Democratic Republic of the Congo,2023
+R8,CUB,Cuba,2004
+R8,CUB,Cuba,2006
+R8,CUB,Cuba,2007
+R8,CUB,Cuba,2008
+R8,CUB,Cuba,2009
+R8,CUB,Cuba,2012
+R8,CUB,Cuba,2016
+R8,CUB,Cuba,2018
+R8,CUB,Cuba,2020
+R8,DOM,Dominican Republic,2001
+R8,DOM,Dominican Republic,2022
+R8,DOM,Dominican Republic,2023
+R8,ECU,Ecuador,2001
+R8,ECU,Ecuador,2002
+R8,ECU,Ecuador,2009
+R8,ECU,Ecuador,2011
+R8,ECU,Ecuador,2012
+R8,ECU,Ecuador,2013
+R8,ECU,Ecuador,2017
+R8,ECU,Ecuador,2019
+R8,ECU,Ecuador,2021
+R8,ECU,Ecuador,2022
+R8,ECU,Ecuador,2023
+R8,ETH,Ethiopia,2010
+R8,ETH,Ethiopia,2019
+R8,GIN,Guinea,2002
+R8,GIN,Guinea,2003
+R8,GIN,Guinea,2004
+R8,GIN,Guinea,2006
+R8,GIN,Guinea,2008
+R8,GIN,Guinea,2010
+R8,GIN,Guinea,2013
+R8,GIN,Guinea,2014
+R8,GIN,Guinea,2015
+R8,GIN,Guinea,2019
+R8,GIN,Guinea,2020
+R8,GIN,Guinea,2022
+R8,GIN,Guinea,2023
+R8,HTI,Haiti,2013
+R8,HTI,Haiti,2014
+R8,HTI,Haiti,2016
+R8,JAM,Jamaica,2003
+R8,JAM,Jamaica,2005
+R8,JAM,Jamaica,2006
+R8,KEN,Kenya,2002
+R8,KEN,Kenya,2003
+R8,KEN,Kenya,2022
+R8,LAO,Lao People's Democratic Republic,2007
+R8,LAO,Lao People's Democratic Republic,2012
+R8,LAO,Lao People's Democratic Republic,2013
+R8,LAO,Lao People's Democratic Republic,2020
+R8,LKA,Sri Lanka,2001
+R8,LKA,Sri Lanka,2003
+R8,LKA,Sri Lanka,2004
+R8,LKA,Sri Lanka,2006
+R8,LKA,Sri Lanka,2007
+R8,LKA,Sri Lanka,2008
+R8,LKA,Sri Lanka,2010
+R8,LKA,Sri Lanka,2011
+R8,LKA,Sri Lanka,2012
+R8,LKA,Sri Lanka,2013
+R8,LKA,Sri Lanka,2014
+R8,LKA,Sri Lanka,2015
+R8,LKA,Sri Lanka,2016
+R8,LKA,Sri Lanka,2017
+R8,LKA,Sri Lanka,2018
+R8,LKA,Sri Lanka,2019
+R8,LKA,Sri Lanka,2020
+R8,LKA,Sri Lanka,2021
+R8,MDG,Madagascar,2004
+R8,MDG,Madagascar,2006
+R8,MDG,Madagascar,2009
+R8,MDG,Madagascar,2010
+R8,MDG,Madagascar,2011
+R8,MDG,Madagascar,2013
+R8,MDG,Madagascar,2015
+R8,MDG,Madagascar,2017
+R8,MDG,Madagascar,2018
+R8,MDG,Madagascar,2019
+R8,MDG,Madagascar,2020
+R8,MDG,Madagascar,2021
+R8,MDG,Madagascar,2022
+R8,MDG,Madagascar,2023
+R8,MMR,Myanmar,2004
+R8,MMR,Myanmar,2005
+R8,MMR,Myanmar,2009
+R8,MMR,Myanmar,2010
+R8,MMR,Myanmar,2011
+R8,MMR,Myanmar,2014
+R8,MMR,Myanmar,2020
+R8,MMR,Myanmar,2021
+R8,MMR,Myanmar,2022
+R8,MWI,Malawi,2001
+R8,MWI,Malawi,2002
+R8,MWI,Malawi,2005
+R8,MWI,Malawi,2006
+R8,MWI,Malawi,2008
+R8,MWI,Malawi,2009
+R8,MWI,Malawi,2018
+R8,MWI,Malawi,2019
+R8,MYS,Malaysia,2006
+R8,MYS,Malaysia,2018
+R8,MYS,Malaysia,2020
+R8,MYS,Malaysia,2022
+R8,MYS,Malaysia,2023
+R8,NCL,New Caledonia,2001
+R8,NCL,New Caledonia,2002
+R8,NCL,New Caledonia,2004
+R8,NCL,New Caledonia,2005
+R8,NCL,New Caledonia,2007
+R8,NCL,New Caledonia,2008
+R8,NCL,New Caledonia,2009
+R8,NCL,New Caledonia,2010
+R8,NCL,New Caledonia,2012
+R8,NCL,New Caledonia,2015
+R8,NCL,New Caledonia,2017
+R8,NCL,New Caledonia,2018
+R8,NCL,New Caledonia,2019
+R8,NCL,New Caledonia,2020
+R8,NCL,New Caledonia,2021
+R8,NCL,New Caledonia,2022
+R8,NCL,New Caledonia,2023
+R8,NGA,Nigeria,2003
+R8,NGA,Nigeria,2004
+R8,NGA,Nigeria,2005
+R8,NGA,Nigeria,2006
+R8,NGA,Nigeria,2007
+R8,NGA,Nigeria,2008
+R8,NGA,Nigeria,2010
+R8,NGA,Nigeria,2011
+R8,NGA,Nigeria,2013
+R8,NGA,Nigeria,2014
+R8,NGA,Nigeria,2015
+R8,NGA,Nigeria,2016
+R8,NGA,Nigeria,2019
+R8,NGA,Nigeria,2021
+R8,NGA,Nigeria,2022
+R8,NGA,Nigeria,2023
+R8,NIC,Nicaragua,2005
+R8,NPL,Nepal,2002
+R8,NPL,Nepal,2003
+R8,NPL,Nepal,2004
+R8,NPL,Nepal,2005
+R8,NPL,Nepal,2007
+R8,NPL,Nepal,2009
+R8,NPL,Nepal,2010
+R8,NPL,Nepal,2011
+R8,NPL,Nepal,2012
+R8,NPL,Nepal,2013
+R8,NPL,Nepal,2015
+R8,PAN,Panama,2014
+R8,PAN,Panama,2017
+R8,PAN,Panama,2018
+R8,PAN,Panama,2019
+R8,PAN,Panama,2020
+R8,PAN,Panama,2021
+R8,PAN,Panama,2023
+R8,PER,Peru,2006
+R8,PHL,Philippines,2002
+R8,PHL,Philippines,2003
+R8,PHL,Philippines,2005
+R8,PHL,Philippines,2006
+R8,PHL,Philippines,2007
+R8,PHL,Philippines,2009
+R8,PHL,Philippines,2011
+R8,PHL,Philippines,2012
+R8,PHL,Philippines,2013
+R8,PHL,Philippines,2014
+R8,PHL,Philippines,2016
+R8,PHL,Philippines,2017
+R8,PHL,Philippines,2018
+R8,PHL,Philippines,2023
+R8,PNG,Papua New Guinea,2011
+R8,SLE,Sierra Leone,2002
+R8,SLE,Sierra Leone,2004
+R8,SLE,Sierra Leone,2006
+R8,SLE,Sierra Leone,2008
+R8,SLE,Sierra Leone,2009
+R8,SLE,Sierra Leone,2010
+R8,SLE,Sierra Leone,2012
+R8,SLE,Sierra Leone,2014
+R8,SLV,El Salvador,2011
+R8,SLV,El Salvador,2013
+R8,SLV,El Salvador,2014
+R8,TGO,Togo,2002
+R8,TGO,Togo,2003
+R8,TGO,Togo,2004
+R8,TGO,Togo,2005
+R8,TGO,Togo,2007
+R8,TGO,Togo,2010
+R8,TGO,Togo,2012
+R8,TGO,Togo,2014
+R8,TGO,Togo,2016
+R8,TGO,Togo,2017
+R8,TGO,Togo,2018
+R8,TGO,Togo,2022
+R8,THA,Thailand,2002
+R8,THA,Thailand,2004
+R8,THA,Thailand,2006
+R8,THA,Thailand,2007
+R8,THA,Thailand,2008
+R8,THA,Thailand,2009
+R8,THA,Thailand,2011
+R8,THA,Thailand,2012
+R8,THA,Thailand,2013
+R8,THA,Thailand,2018
+R8,TLS,Timor-Leste,2007
+R8,TLS,Timor-Leste,2008
+R8,TLS,Timor-Leste,2009
+R8,TLS,Timor-Leste,2010
+R8,TLS,Timor-Leste,2012
+R8,TLS,Timor-Leste,2014
+R8,TLS,Timor-Leste,2016
+R8,TLS,Timor-Leste,2018
+R8,TLS,Timor-Leste,2019
+R8,TLS,Timor-Leste,2020
+R8,TLS,Timor-Leste,2021
+R8,TTO,Trinidad and Tobago,2003
+R8,TTO,Trinidad and Tobago,2004
+R8,TTO,Trinidad and Tobago,2005
+R8,TTO,Trinidad and Tobago,2006
+R8,TTO,Trinidad and Tobago,2007
+R8,TTO,Trinidad and Tobago,2009
+R8,TTO,Trinidad and Tobago,2010
+R8,TTO,Trinidad and Tobago,2011
+R8,TTO,Trinidad and Tobago,2012
+R8,TTO,Trinidad and Tobago,2013
+R8,TTO,Trinidad and Tobago,2014
+R8,TTO,Trinidad and Tobago,2015
+R8,TTO,Trinidad and Tobago,2016
+R8,TTO,Trinidad and Tobago,2019
+R8,TTO,Trinidad and Tobago,2020
+R8,TTO,Trinidad and Tobago,2023
+R8,TZA,United Republic of Tanzania,2006
+R8,TZA,United Republic of Tanzania,2011
+R8,TZA,United Republic of Tanzania,2019
+R8,UGA,Uganda,2002
+R8,UGA,Uganda,2003
+R8,UGA,Uganda,2004
+R8,USA,United States of America,2006
+R8,USA,United States of America,2007
+R8,USA,United States of America,2010
+R8,USA,United States of America,2011
+R8,USA,United States of America,2021
+R8,USA,United States of America,2022
+R8,VUT,Vanuatu,2004
+R8,VUT,Vanuatu,2012
+R8,VUT,Vanuatu,2013
+R8,VUT,Vanuatu,2014
+R8,VUT,Vanuatu,2016
+R8,VUT,Vanuatu,2017
+R8,VUT,Vanuatu,2018
+R8,VUT,Vanuatu,2019
+R8,VUT,Vanuatu,2020
+R8,VUT,Vanuatu,2023
+R8,YEM,Yemen,2006
+R8,YEM,Yemen,2007
+R8,YEM,Yemen,2020
+R8,YEM,Yemen,2021
+R8,ZMB,Zambia,2001
+R8,ZMB,Zambia,2008
+R8,ZMB,Zambia,2014
+R8,ZMB,Zambia,2016
+R8,ZMB,Zambia,2017
+R8,ZMB,Zambia,2018
+R8,ZMB,Zambia,2019
+R8,ZMB,Zambia,2020
+R8,ZMB,Zambia,2021
+R8,ZWE,Zimbabwe,2001
+R8,ZWE,Zimbabwe,2002
+R8,ZWE,Zimbabwe,2005
+R8,ZWE,Zimbabwe,2010
+R8,ZWE,Zimbabwe,2012
+R8,ZWE,Zimbabwe,2014
+R8,ZWE,Zimbabwe,2016
+R8,ZWE,Zimbabwe,2017
+R8,ZWE,Zimbabwe,2018
+R9,BDI,Burundi,2014
+R9,BDI,Burundi,2016
+R9,BDI,Burundi,2018
+R9,BDI,Burundi,2019
+R9,BDI,Burundi,2020
+R9,BDI,Burundi,2022
+R9,BDI,Burundi,2023
+R9,CIV,Côte d'Ivoire,2010
+R9,CIV,Côte d'Ivoire,2011
+R9,CIV,Côte d'Ivoire,2017
+R9,CIV,Côte d'Ivoire,2019
+R9,CMR,Cameroon,2000
+R9,CMR,Cameroon,2001
+R9,CMR,Cameroon,2002
+R9,CMR,Cameroon,2003
+R9,CMR,Cameroon,2011
+R9,CMR,Cameroon,2012
+R9,COL,Colombia,2021
+R9,CRI,Costa Rica,2013
+R9,ECU,Ecuador,2011
+R9,ECU,Ecuador,2012
+R9,ECU,Ecuador,2013
+R9,ECU,Ecuador,2014
+R9,ECU,Ecuador,2015
+R9,ECU,Ecuador,2016
+R9,ETH,Ethiopia,2003
+R9,ETH,Ethiopia,2004
+R9,ETH,Ethiopia,2005
+R9,GIN,Guinea,2006
+R9,GIN,Guinea,2012
+R9,GTM,Guatemala,2003
+R9,KEN,Kenya,2001
+R9,KEN,Kenya,2003
+R9,KEN,Kenya,2004
+R9,KEN,Kenya,2005
+R9,KEN,Kenya,2007
+R9,KEN,Kenya,2009
+R9,KEN,Kenya,2010
+R9,KEN,Kenya,2011
+R9,KEN,Kenya,2013
+R9,KEN,Kenya,2015
+R9,KEN,Kenya,2017
+R9,KEN,Kenya,2018
+R9,KEN,Kenya,2019
+R9,KEN,Kenya,2020
+R9,KEN,Kenya,2021
+R9,KEN,Kenya,2023
+R9,MWI,Malawi,2001
+R9,MWI,Malawi,2004
+R9,MWI,Malawi,2005
+R9,MWI,Malawi,2006
+R9,MWI,Malawi,2007
+R9,NCL,New Caledonia,2019
+R9,NCL,New Caledonia,2020
+R9,NCL,New Caledonia,2021
+R9,NCL,New Caledonia,2022
+R9,NCL,New Caledonia,2023
+R9,NIC,Nicaragua,2000
+R9,NIC,Nicaragua,2001
+R9,NIC,Nicaragua,2004
+R9,NIC,Nicaragua,2006
+R9,NIC,Nicaragua,2008
+R9,NIC,Nicaragua,2010
+R9,NIC,Nicaragua,2012
+R9,NIC,Nicaragua,2013
+R9,NIC,Nicaragua,2014
+R9,NIC,Nicaragua,2015
+R9,NIC,Nicaragua,2019
+R9,NPL,Nepal,2009
+R9,PNG,Papua New Guinea,2004
+R9,PNG,Papua New Guinea,2006
+R9,PNG,Papua New Guinea,2010
+R9,PNG,Papua New Guinea,2012
+R9,PNG,Papua New Guinea,2016
+R9,PNG,Papua New Guinea,2017
+R9,PNG,Papua New Guinea,2019
+R9,PNG,Papua New Guinea,2022
+R9,PNG,Papua New Guinea,2023
+R9,RWA,Rwanda,2002
+R9,RWA,Rwanda,2003
+R9,RWA,Rwanda,2004
+R9,RWA,Rwanda,2006
+R9,RWA,Rwanda,2007
+R9,RWA,Rwanda,2008
+R9,SLE,Sierra Leone,2014
+R9,SLE,Sierra Leone,2015
+R9,SLE,Sierra Leone,2016
+R9,SLE,Sierra Leone,2017
+R9,SLE,Sierra Leone,2018
+R9,SLE,Sierra Leone,2019
+R9,SLE,Sierra Leone,2020
+R9,SLV,El Salvador,2000
+R9,SLV,El Salvador,2002
+R9,SLV,El Salvador,2009
+R9,SLV,El Salvador,2011
+R9,SLV,El Salvador,2013
+R9,SLV,El Salvador,2019
+R9,TLS,Timor-Leste,2008
+R9,TLS,Timor-Leste,2010
+R9,TLS,Timor-Leste,2011
+R9,TLS,Timor-Leste,2012
+R9,TLS,Timor-Leste,2013
+R9,TLS,Timor-Leste,2017
+R9,TZA,United Republic of Tanzania,2000
+R9,TZA,United Republic of Tanzania,2006
+R9,TZA,United Republic of Tanzania,2007
+R9,TZA,United Republic of Tanzania,2008
+R9,TZA,United Republic of Tanzania,2015
+R9,TZA,United Republic of Tanzania,2018
+R9,TZA,United Republic of Tanzania,2019
+R9,TZA,United Republic of Tanzania,2020
+R9,TZA,United Republic of Tanzania,2023
+R9,UGA,Uganda,2013
+R9,USA,United States of America,2000
+R9,USA,United States of America,2001
+R9,USA,United States of America,2002
+R9,USA,United States of America,2003
+R9,USA,United States of America,2004
+R9,USA,United States of America,2005
+R9,USA,United States of America,2007
+R9,USA,United States of America,2008
+R9,USA,United States of America,2009
+R9,USA,United States of America,2010
+R9,USA,United States of America,2011
+R9,USA,United States of America,2012
+R9,USA,United States of America,2013
+R9,USA,United States of America,2014
+R9,USA,United States of America,2015
+R9,USA,United States of America,2016
+R9,USA,United States of America,2017
+R9,USA,United States of America,2018
+R9,USA,United States of America,2019
+R9,USA,United States of America,2020
+R9,USA,United States of America,2021
+R9,USA,United States of America,2022
+R9,USA,United States of America,2023
+R9,VNM,Viet Nam,2001
+R9,VNM,Viet Nam,2002
+R9,VNM,Viet Nam,2005
+R9,VNM,Viet Nam,2008
+R9,VNM,Viet Nam,2009
+R9,VNM,Viet Nam,2010
+R9,VNM,Viet Nam,2012
+R9,VNM,Viet Nam,2014
+R9,VNM,Viet Nam,2016
+R9,VUT,Vanuatu,2011
+R9,VUT,Vanuatu,2014
+R9,VUT,Vanuatu,2015
+R9,VUT,Vanuatu,2018
+R9,VUT,Vanuatu,2020
+R9,ZMB,Zambia,2000
+R9,ZMB,Zambia,2004
+R10,BOL,Bolivia (Plurinational State of),2018
+R10,BOL,Bolivia (Plurinational State of),2019
+R10,BOL,Bolivia (Plurinational State of),2020
+R10,CUB,Cuba,2008
+R10,DOM,Dominican Republic,2018
+R10,DOM,Dominican Republic,2019
+R10,ECU,Ecuador,2001
+R10,ECU,Ecuador,2005
+R10,GIN,Guinea,2008
+R10,GIN,Guinea,2009
+R10,GIN,Guinea,2014
+R10,GIN,Guinea,2015
+R10,GIN,Guinea,2016
+R10,GIN,Guinea,2017
+R10,GIN,Guinea,2021
+R10,HTI,Haiti,2016
+R10,HTI,Haiti,2017
+R10,HTI,Haiti,2018
+R10,HTI,Haiti,2019
+R10,HTI,Haiti,2020
+R10,JAM,Jamaica,2000
+R10,JAM,Jamaica,2001
+R10,JAM,Jamaica,2002
+R10,JAM,Jamaica,2003
+R10,JAM,Jamaica,2004
+R10,JAM,Jamaica,2005
+R10,JAM,Jamaica,2006
+R10,JAM,Jamaica,2007
+R10,JAM,Jamaica,2008
+R10,JAM,Jamaica,2009
+R10,JAM,Jamaica,2010
+R10,JAM,Jamaica,2011
+R10,JAM,Jamaica,2012
+R10,JAM,Jamaica,2013
+R10,JAM,Jamaica,2014
+R10,JAM,Jamaica,2015
+R10,JAM,Jamaica,2016
+R10,JAM,Jamaica,2017
+R10,JAM,Jamaica,2018
+R10,JAM,Jamaica,2019
+R10,JAM,Jamaica,2020
+R10,JAM,Jamaica,2021
+R10,JAM,Jamaica,2022
+R10,JAM,Jamaica,2023
+R10,LKA,Sri Lanka,2002
+R10,LKA,Sri Lanka,2012
+R10,LKA,Sri Lanka,2013
+R10,LKA,Sri Lanka,2015
+R10,LKA,Sri Lanka,2016
+R10,LKA,Sri Lanka,2017
+R10,LKA,Sri Lanka,2018
+R10,LKA,Sri Lanka,2019
+R10,LKA,Sri Lanka,2020
+R10,LKA,Sri Lanka,2021
+R10,LKA,Sri Lanka,2022
+R10,LKA,Sri Lanka,2023
+R10,MDG,Madagascar,2004
+R10,MDG,Madagascar,2021
+R10,MDG,Madagascar,2022
+R10,NGA,Nigeria,2016
+R10,NGA,Nigeria,2023
+R10,NPL,Nepal,2000
+R10,NPL,Nepal,2002
+R10,NPL,Nepal,2004
+R10,NPL,Nepal,2005
+R10,NPL,Nepal,2006
+R10,NPL,Nepal,2007
+R10,NPL,Nepal,2008
+R10,NPL,Nepal,2015
+R10,NPL,Nepal,2016
+R10,NPL,Nepal,2017
+R10,NPL,Nepal,2018
+R10,NPL,Nepal,2019
+R10,NPL,Nepal,2020
+R10,NPL,Nepal,2021
+R10,NPL,Nepal,2022
+R10,NPL,Nepal,2023
+R10,PHL,Philippines,2002
+R10,PHL,Philippines,2014
+R10,PHL,Philippines,2015
+R10,PHL,Philippines,2016
+R10,PHL,Philippines,2017
+R10,PHL,Philippines,2018
+R10,PHL,Philippines,2019
+R10,PHL,Philippines,2020
+R10,PHL,Philippines,2021
+R10,PHL,Philippines,2022
+R10,PHL,Philippines,2023
+R10,SLE,Sierra Leone,2001
+R10,TGO,Togo,2010
+R10,TGO,Togo,2011
+R10,TGO,Togo,2017
+R10,TGO,Togo,2018
+R10,TGO,Togo,2023
+R10,THA,Thailand,2009
+R10,THA,Thailand,2010
+R10,THA,Thailand,2014
+R10,THA,Thailand,2015
+R10,THA,Thailand,2016
+R10,THA,Thailand,2017
+R10,THA,Thailand,2018
+R10,THA,Thailand,2019
+R10,THA,Thailand,2020
+R10,THA,Thailand,2021
+R10,THA,Thailand,2022
+R10,THA,Thailand,2023
+R10,TLS,Timor-Leste,2000
+R10,TLS,Timor-Leste,2005
+R10,TLS,Timor-Leste,2006
+R10,TLS,Timor-Leste,2008
+R10,TLS,Timor-Leste,2009
+R10,TLS,Timor-Leste,2010
+R10,TLS,Timor-Leste,2011
+R10,TLS,Timor-Leste,2012
+R10,TLS,Timor-Leste,2013
+R10,TTO,Trinidad and Tobago,2000
+R10,TTO,Trinidad and Tobago,2001
+R10,TTO,Trinidad and Tobago,2002
+R10,TTO,Trinidad and Tobago,2003
+R10,TTO,Trinidad and Tobago,2004
+R10,TTO,Trinidad and Tobago,2005
+R10,TTO,Trinidad and Tobago,2006
+R10,TTO,Trinidad and Tobago,2007
+R10,TTO,Trinidad and Tobago,2008
+R10,TTO,Trinidad and Tobago,2009
+R10,TTO,Trinidad and Tobago,2010
+R10,TTO,Trinidad and Tobago,2012
+R10,TTO,Trinidad and Tobago,2013
+R10,TTO,Trinidad and Tobago,2014
+R10,TTO,Trinidad and Tobago,2015
+R10,TTO,Trinidad and Tobago,2016
+R10,TTO,Trinidad and Tobago,2017
+R10,TTO,Trinidad and Tobago,2019
+R10,TTO,Trinidad and Tobago,2020
+R10,TTO,Trinidad and Tobago,2021
+R10,TTO,Trinidad and Tobago,2022
+R10,TZA,United Republic of Tanzania,2018
+R10,TZA,United Republic of Tanzania,2022
+R10,YEM,Yemen,2000
+R10,YEM,Yemen,2001
+R10,YEM,Yemen,2002
+R10,YEM,Yemen,2003
+R10,YEM,Yemen,2004
+R10,YEM,Yemen,2018
+R10,YEM,Yemen,2019
+R10,YEM,Yemen,2020
+R10,ZWE,Zimbabwe,2005
+R10,ZWE,Zimbabwe,2011
+R11,NCL,New Caledonia,2023

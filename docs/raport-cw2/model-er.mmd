@@ -1,0 +1,50 @@
+erDiagram
+    dim_country ||--o{ fact_country_year : "iso3"
+    dim_year ||--o{ fact_country_year : "year"
+    ref_weather_optimum |o--o{ dim_country : "species"
+    dim_country ||--o| weather_yield_correlation : "iso3"
+
+    fact_country_year {
+        TEXT iso3 PK,FK
+        INTEGER year PK,FK
+        REAL production_t
+        REAL area_ha
+        REAL yield_kg_ha
+        REAL yield_deviation_pct
+        REAL export_t
+        REAL export_value_usd
+        REAL temperature_c
+        REAL precipitation_mm
+        REAL temperature_anomaly_c
+        REAL precipitation_anomaly_pct
+        TEXT flags "A/E/I/X x5"
+    }
+    dim_country {
+        TEXT iso3 PK
+        TEXT country
+        TEXT m49
+        TEXT region
+        TEXT subregion
+        TEXT ico_type
+        TEXT species FK
+    }
+    dim_year {
+        INTEGER year PK
+        REAL cpi_usa
+        REAL to_usd_2023
+        REAL arabica_usd_kg
+        REAL robusta_usd_kg
+    }
+    ref_weather_optimum {
+        TEXT species PK
+        REAL temperature_min_c
+        REAL temperature_max_c
+        REAL precipitation_min_mm
+        REAL precipitation_max_mm
+        TEXT source
+    }
+    weather_yield_correlation {
+        TEXT iso3 PK,FK
+        REAL yield_temperature_r
+        REAL yield_precipitation_r
+    }

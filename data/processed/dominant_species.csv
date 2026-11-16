@@ -1,0 +1,76 @@
+country,iso3,ico_name,ico_type,species
+Angola,AGO,Angola,R/A,robusta
+Belize,BLZ,,,
+Benin,BEN,,,
+Bolivia (Plurinational State of),BOL,Bolivia (Plurinational State of),A,arabica
+Brazil,BRA,Brazil,A/R,arabica
+Burundi,BDI,Burundi,A/R,arabica
+Cambodia,KHM,,,
+Cameroon,CMR,Cameroon,R/A,robusta
+Central African Republic,CAF,Central African Republic,R,robusta
+"China, mainland",CHN,,,
+Colombia,COL,Colombia,A,arabica
+Comoros,COM,,,
+Congo,COG,Congo,R,robusta
+Costa Rica,CRI,Costa Rica,A,arabica
+Côte d'Ivoire,CIV,Côte d'Ivoire,R,robusta
+Cuba,CUB,Cuba,A,arabica
+Democratic Republic of the Congo,COD,Democratic Republic of Congo,R/A,robusta
+Dominica,DMA,,,
+Dominican Republic,DOM,Dominican Republic,A/R,arabica
+Ecuador,ECU,Ecuador,A/R,arabica
+El Salvador,SLV,El Salvador,A,arabica
+Equatorial Guinea,GNQ,Equatorial Guinea,R,robusta
+Ethiopia,ETH,Ethiopia,A,arabica
+Fiji,FJI,,,
+French Polynesia,PYF,,,
+Gabon,GAB,Gabon,R,robusta
+Ghana,GHA,Ghana,R,robusta
+Guatemala,GTM,Guatemala,A/R,arabica
+Guinea,GIN,Guinea,R,robusta
+Guyana,GUY,Guyana,R,robusta
+Haiti,HTI,Haiti,A,arabica
+Honduras,HND,Honduras,A,arabica
+India,IND,India,R/A,robusta
+Indonesia,IDN,Indonesia,R/A,robusta
+Jamaica,JAM,Jamaica,A,arabica
+Kenya,KEN,Kenya,A,arabica
+Lao People's Democratic Republic,LAO,Lao People's Democratic Republic,R,robusta
+Liberia,LBR,Liberia,R,robusta
+Madagascar,MDG,Madagascar,R,robusta
+Malawi,MWI,Malawi,A,arabica
+Malaysia,MYS,,,
+Mexico,MEX,Mexico,A/R,arabica
+Mozambique,MOZ,,,
+Myanmar,MMR,,,
+Nepal,NPL,Nepal,A,arabica
+New Caledonia,NCL,,,
+Nicaragua,NIC,Nicaragua,A,arabica
+Nigeria,NGA,Nigeria,R,robusta
+Panama,PAN,Panama,A,arabica
+Papua New Guinea,PNG,Papua New Guinea,A/R,arabica
+Paraguay,PRY,,,
+Peru,PER,Peru,A,arabica
+Philippines,PHL,Philippines,R/A,robusta
+Puerto Rico,PRI,,,
+Rwanda,RWA,Rwanda,A,arabica
+Saint Vincent and the Grenadines,VCT,,,
+Samoa,WSM,,,
+Sao Tome and Principe,STP,,,
+Sierra Leone,SLE,Sierra Leone,R,robusta
+Sri Lanka,LKA,Sri Lanka,R/A,robusta
+Suriname,SUR,,,
+Thailand,THA,Thailand,R/A,robusta
+Timor-Leste,TLS,Timor-Leste,A,arabica
+Togo,TGO,Togo,R,robusta
+Tonga,TON,,,
+Trinidad and Tobago,TTO,Trinidad & Tobago,R,robusta
+Uganda,UGA,Uganda,R/A,robusta
+United Republic of Tanzania,TZA,Tanzania,A/R,arabica
+United States of America,USA,,,
+Vanuatu,VUT,,,
+Venezuela (Bolivarian Republic of),VEN,Venezuela,A,arabica
+Viet Nam,VNM,Viet Nam,R/A,robusta
+Yemen,YEM,Yemen,A,arabica
+Zambia,ZMB,Zambia,A,arabica
+Zimbabwe,ZWE,Zimbabwe,A,arabica

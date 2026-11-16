@@ -41,5 +41,60 @@
     "downloaded_at_utc": "2026-11-09T21:07:50Z",
     "bytes": 622696,
     "sha256": "1999142cec043fe9f49b4710bdf4cd3b63a3160ae22929cb4ce8602f5cab18e9"
+  },
+  "faostat_trade": {
+    "url": "https://bulks-faostat.fao.org/production/Trade_CropsLivestock_E_All_Data_(Normalized).zip",
+    "path": "faostat/Trade_CropsLivestock_E_All_Data_(Normalized).zip",
+    "documentation": "https://www.fao.org/faostat/en/#data/TCL",
+    "licence": "CC-BY-4.0; FAO Statistical Database Terms of Use",
+    "licence_url": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+    "note": "Not in Git (over the GitHub 100 MB limit); green-coffee extract: data/processed/faostat_trade_coffee.csv",
+    "downloaded_at_utc": "2026-11-16T14:17:48.853976+00:00",
+    "bytes": 273514210,
+    "sha256": "effb07f6ee6c1f086e2dd4c11742d2ba9495552fb11c11ea64aa7edbd7a32380",
+    "last_updated": "2026-07-24T00:00:00"
+  },
+  "pink_sheet": {
+    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Annual.xlsx",
+    "path": "worldbank/CMO-Historical-Data-Annual.xlsx",
+    "documentation": "https://www.worldbank.org/en/research/commodity-markets",
+    "licence": "CC-BY-4.0; World Bank Terms of Use for Datasets",
+    "licence_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "units": "USD/kg, nominal",
+    "downloaded_at_utc": "2026-11-16T14:17:49.145155+00:00",
+    "bytes": 3176359,
+    "sha256": "320b6871339f9042644840df0249e1216f31b873cb731c0a01781232e8a8975d",
+    "last_updated": "2026-09-02"
+  },
+  "cpi_usa": {
+    "url": "https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL?format=json&date=2000:2023&per_page=100",
+    "path": "worldbank/cpi_usa_2000_2023.json",
+    "documentation": "https://data.worldbank.org/indicator/FP.CPI.TOTL?locations=US",
+    "licence": "CC-BY-4.0; World Bank Terms of Use for Datasets",
+    "licence_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "units": "index, 2010 = 100",
+    "downloaded_at_utc": "2026-11-16T14:17:49.429363+00:00",
+    "bytes": 5500,
+    "sha256": "fa167a59f1754805bfa3b36289fabe6a19dadd02d307879fdf9fff1ece660fd9",
+    "last_updated": "2026-11-11"
+  },
+  "ico_production": {
+    "url": "http://dev.ico.org/historical/1990%20onwards/Excel/1a%20-%20Total%20production.xlsx",
+    "path": "ico/1a-total-production.xlsx",
+    "documentation": "https://ico.org/resources/historical-data-on-the-global-coffee-trade/",
+    "licence": "ICO historical data, free download; attribution: International Coffee Organization",
+    "purpose": "Coffee type per exporting country: (A) Arabica, (R) Robusta, (A/R) mainly Arabica, (R/A) mainly Robusta",
+    "downloaded_at_utc": "2026-11-16T14:17:49.430362+00:00",
+    "bytes": 36886,
+    "sha256": "877fa51d5ea61f52ec893aa3f818fedf53428cb7bf7401f6805a6ffc642315d0"
+  },
+  "weather_optimum": {
+    "path": "reference/weather_optimum.csv",
+    "documentation": "https://doi.org/10.1590/S1677-04202006000100006",
+    "attribution": "DaMatta F.M., Ramalho J.D.C. (2006). Braz. J. Plant Physiol. 18(1): 55-81",
+    "purpose": "Optimal mean annual temperature and annual rainfall per species; maintained by hand",
+    "downloaded_at_utc": "2026-11-16T14:17:49.430362+00:00",
+    "bytes": 383,
+    "sha256": "172a79c1035b516339a3f0581449019e1eed7bda26f7be3b972ee996aa6f3268"
   }
 }
