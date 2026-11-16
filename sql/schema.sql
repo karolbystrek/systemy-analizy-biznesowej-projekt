@@ -35,7 +35,10 @@ CREATE TABLE dim_country (
     region    TEXT NOT NULL,
     subregion TEXT NOT NULL,         -- M49 intermediate region, else sub-region
     ico_type  TEXT CHECK (ico_type IN ('A', 'R', 'A/R', 'R/A')),
-    species   TEXT REFERENCES ref_weather_optimum (species)
+    species   TEXT REFERENCES ref_weather_optimum (species),
+    species_source            TEXT CHECK ((species IS NULL) = (species_source IS NULL)),
+    temperature_norm_sd_c     REAL NOT NULL CHECK (temperature_norm_sd_c > 0),      -- SD of annual values 1991-2020
+    precipitation_norm_sd_pct REAL NOT NULL CHECK (precipitation_norm_sd_pct > 0)   -- same, as % of the 1991-2020 mean
 );
 
 CREATE TABLE fact_country_year (

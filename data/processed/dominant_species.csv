@@ -1,76 +1,76 @@
-country,iso3,ico_name,ico_type,species
-Angola,AGO,Angola,R/A,robusta
-Belize,BLZ,,,
-Benin,BEN,,,
-Bolivia (Plurinational State of),BOL,Bolivia (Plurinational State of),A,arabica
-Brazil,BRA,Brazil,A/R,arabica
-Burundi,BDI,Burundi,A/R,arabica
-Cambodia,KHM,,,
-Cameroon,CMR,Cameroon,R/A,robusta
-Central African Republic,CAF,Central African Republic,R,robusta
-"China, mainland",CHN,,,
-Colombia,COL,Colombia,A,arabica
-Comoros,COM,,,
-Congo,COG,Congo,R,robusta
-Costa Rica,CRI,Costa Rica,A,arabica
-Côte d'Ivoire,CIV,Côte d'Ivoire,R,robusta
-Cuba,CUB,Cuba,A,arabica
-Democratic Republic of the Congo,COD,Democratic Republic of Congo,R/A,robusta
-Dominica,DMA,,,
-Dominican Republic,DOM,Dominican Republic,A/R,arabica
-Ecuador,ECU,Ecuador,A/R,arabica
-El Salvador,SLV,El Salvador,A,arabica
-Equatorial Guinea,GNQ,Equatorial Guinea,R,robusta
-Ethiopia,ETH,Ethiopia,A,arabica
-Fiji,FJI,,,
-French Polynesia,PYF,,,
-Gabon,GAB,Gabon,R,robusta
-Ghana,GHA,Ghana,R,robusta
-Guatemala,GTM,Guatemala,A/R,arabica
-Guinea,GIN,Guinea,R,robusta
-Guyana,GUY,Guyana,R,robusta
-Haiti,HTI,Haiti,A,arabica
-Honduras,HND,Honduras,A,arabica
-India,IND,India,R/A,robusta
-Indonesia,IDN,Indonesia,R/A,robusta
-Jamaica,JAM,Jamaica,A,arabica
-Kenya,KEN,Kenya,A,arabica
-Lao People's Democratic Republic,LAO,Lao People's Democratic Republic,R,robusta
-Liberia,LBR,Liberia,R,robusta
-Madagascar,MDG,Madagascar,R,robusta
-Malawi,MWI,Malawi,A,arabica
-Malaysia,MYS,,,
-Mexico,MEX,Mexico,A/R,arabica
-Mozambique,MOZ,,,
-Myanmar,MMR,,,
-Nepal,NPL,Nepal,A,arabica
-New Caledonia,NCL,,,
-Nicaragua,NIC,Nicaragua,A,arabica
-Nigeria,NGA,Nigeria,R,robusta
-Panama,PAN,Panama,A,arabica
-Papua New Guinea,PNG,Papua New Guinea,A/R,arabica
-Paraguay,PRY,,,
-Peru,PER,Peru,A,arabica
-Philippines,PHL,Philippines,R/A,robusta
-Puerto Rico,PRI,,,
-Rwanda,RWA,Rwanda,A,arabica
-Saint Vincent and the Grenadines,VCT,,,
-Samoa,WSM,,,
-Sao Tome and Principe,STP,,,
-Sierra Leone,SLE,Sierra Leone,R,robusta
-Sri Lanka,LKA,Sri Lanka,R/A,robusta
-Suriname,SUR,,,
-Thailand,THA,Thailand,R/A,robusta
-Timor-Leste,TLS,Timor-Leste,A,arabica
-Togo,TGO,Togo,R,robusta
-Tonga,TON,,,
-Trinidad and Tobago,TTO,Trinidad & Tobago,R,robusta
-Uganda,UGA,Uganda,R/A,robusta
-United Republic of Tanzania,TZA,Tanzania,A/R,arabica
-United States of America,USA,,,
-Vanuatu,VUT,,,
-Venezuela (Bolivarian Republic of),VEN,Venezuela,A,arabica
-Viet Nam,VNM,Viet Nam,R/A,robusta
-Yemen,YEM,Yemen,A,arabica
-Zambia,ZMB,Zambia,A,arabica
-Zimbabwe,ZWE,Zimbabwe,A,arabica
+iso3,country,ico_name,ico_type,species,species_source
+AGO,Angola,Angola,R/A,robusta,ICO
+BLZ,Belize,,,,
+BEN,Benin,,,,
+BOL,Bolivia (Plurinational State of),Bolivia (Plurinational State of),A,arabica,ICO
+BRA,Brazil,Brazil,A/R,arabica,ICO
+BDI,Burundi,Burundi,A/R,arabica,ICO
+KHM,Cambodia,,,,
+CMR,Cameroon,Cameroon,R/A,robusta,ICO
+CAF,Central African Republic,Central African Republic,R,robusta,ICO
+CHN,"China, mainland",,,arabica,"USDA FAS (2024), Coffee: World Markets and Trade, December 2024: China grows almost exclusively Arabica (Yunnan)"
+COL,Colombia,Colombia,A,arabica,ICO
+COM,Comoros,,,,
+COG,Congo,Congo,R,robusta,ICO
+CRI,Costa Rica,Costa Rica,A,arabica,ICO
+CIV,Côte d'Ivoire,Côte d'Ivoire,R,robusta,ICO
+CUB,Cuba,Cuba,A,arabica,ICO
+COD,Democratic Republic of the Congo,Democratic Republic of Congo,R/A,robusta,ICO
+DMA,Dominica,,,,
+DOM,Dominican Republic,Dominican Republic,A/R,arabica,ICO
+ECU,Ecuador,Ecuador,A/R,arabica,ICO
+SLV,El Salvador,El Salvador,A,arabica,ICO
+GNQ,Equatorial Guinea,Equatorial Guinea,R,robusta,ICO
+ETH,Ethiopia,Ethiopia,A,arabica,ICO
+FJI,Fiji,,,,
+PYF,French Polynesia,,,,
+GAB,Gabon,Gabon,R,robusta,ICO
+GHA,Ghana,Ghana,R,robusta,ICO
+GTM,Guatemala,Guatemala,A/R,arabica,ICO
+GIN,Guinea,Guinea,R,robusta,ICO
+GUY,Guyana,Guyana,R,robusta,ICO
+HTI,Haiti,Haiti,A,arabica,ICO
+HND,Honduras,Honduras,A,arabica,ICO
+IND,India,India,R/A,robusta,ICO
+IDN,Indonesia,Indonesia,R/A,robusta,ICO
+JAM,Jamaica,Jamaica,A,arabica,ICO
+KEN,Kenya,Kenya,A,arabica,ICO
+LAO,Lao People's Democratic Republic,Lao People's Democratic Republic,R,robusta,ICO
+LBR,Liberia,Liberia,R,robusta,ICO
+MDG,Madagascar,Madagascar,R,robusta,ICO
+MWI,Malawi,Malawi,A,arabica,ICO
+MYS,Malaysia,,,robusta,"USDA FAS (2024), Coffee: World Markets and Trade, December 2024: Malaysia listed only under Robusta production"
+MEX,Mexico,Mexico,A/R,arabica,ICO
+MOZ,Mozambique,,,,
+MMR,Myanmar,,,,
+NPL,Nepal,Nepal,A,arabica,ICO
+NCL,New Caledonia,,,,
+NIC,Nicaragua,Nicaragua,A,arabica,ICO
+NGA,Nigeria,Nigeria,R,robusta,ICO
+PAN,Panama,Panama,A,arabica,ICO
+PNG,Papua New Guinea,Papua New Guinea,A/R,arabica,ICO
+PRY,Paraguay,,,,
+PER,Peru,Peru,A,arabica,ICO
+PHL,Philippines,Philippines,R/A,robusta,ICO
+PRI,Puerto Rico,,,,
+RWA,Rwanda,Rwanda,A,arabica,ICO
+VCT,Saint Vincent and the Grenadines,,,,
+WSM,Samoa,,,,
+STP,Sao Tome and Principe,,,,
+SLE,Sierra Leone,Sierra Leone,R,robusta,ICO
+LKA,Sri Lanka,Sri Lanka,R/A,robusta,ICO
+SUR,Suriname,,,,
+THA,Thailand,Thailand,R/A,robusta,ICO
+TLS,Timor-Leste,Timor-Leste,A,arabica,ICO
+TGO,Togo,Togo,R,robusta,ICO
+TON,Tonga,,,,
+TTO,Trinidad and Tobago,Trinidad & Tobago,R,robusta,ICO
+UGA,Uganda,Uganda,R/A,robusta,ICO
+TZA,United Republic of Tanzania,Tanzania,A/R,arabica,ICO
+USA,United States of America,,,,
+VUT,Vanuatu,,,,
+VEN,Venezuela (Bolivarian Republic of),Venezuela,A,arabica,ICO
+VNM,Viet Nam,Viet Nam,R/A,robusta,ICO
+YEM,Yemen,Yemen,A,arabica,ICO
+ZMB,Zambia,Zambia,A,arabica,ICO
+ZWE,Zimbabwe,Zimbabwe,A,arabica,ICO

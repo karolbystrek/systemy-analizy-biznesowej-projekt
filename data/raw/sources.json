@@ -96,5 +96,14 @@
     "downloaded_at_utc": "2026-11-16T14:17:49.430362+00:00",
     "bytes": 383,
     "sha256": "172a79c1035b516339a3f0581449019e1eed7bda26f7be3b972ee996aa6f3268"
+  },
+  "species_overrides": {
+    "path": "reference/species_overrides.csv",
+    "documentation": "https://apps.fas.usda.gov/psdonline/circulars/2024/12/coffee.pdf",
+    "attribution": "USDA Foreign Agricultural Service (2024). Coffee: World Markets and Trade, December 2024",
+    "purpose": "Dominant species for countries missing from the ICO list; maintained by hand",
+    "downloaded_at_utc": "2026-11-16T15:27:02.978325+00:00",
+    "bytes": 283,
+    "sha256": "e6ecc654d3c3316395357a7c1eabd2489d05588283a239d8730feb2df508eb88"
   }
 }

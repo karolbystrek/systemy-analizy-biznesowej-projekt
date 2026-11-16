@@ -9,5 +9,5 @@
 | R7   | K3 tylko przy wolumenie > 0; K4 i K5 tylko przy podstawie > 0 | wysoki      | widok: NULLIF                            | 0                      |
 | R8   | zmiana r/r zbiorów lub eksportu powyżej ±50%                  | średni      | zapytanie kontrolne → flaga              | 309                    |
 | R9   | eksport większy niż zbiory                                    | średni      | zapytanie kontrolne → flaga              | 152                    |
-| R10  | K3 poza 0,5–2 × cena referencyjna gatunku (próg wstępny)      | średni      | zapytanie kontrolne → przegląd           | 148                    |
+| R10  | K3 poza 0,5–2 × cena referencyjna gatunku (próg wstępny)      | średni      | zapytanie kontrolne → przegląd           | 150                    |
 | R11  | plon ≈ zbiory / powierzchnia (±5%)                            | niski       | zapytanie kontrolne → flaga              | 1                      |
